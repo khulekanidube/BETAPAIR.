@@ -93,7 +93,7 @@ const App = () => {
     <div className="container">
       <form onSubmit={submit}>
         <BsPerson className="icon" />
-        <h1>MVELASE-BETA-PAIR</h1>
+        <h1>👨‍💻𝐌𝐕𝐄𝐋𝐀𝐒𝐄 𝐌𝐃 𝐏𝐀𝐈𝐑</h1>
         {res.status && (
           <Alert variant={res.is}>
             {res.msg}
