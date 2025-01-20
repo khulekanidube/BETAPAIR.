@@ -1,4 +1,10 @@
-import * as mega from 'megajs';
+/*
+╔═╦═╦╗─╔╦═╦╗╔══╦══╦═╗╔═╦═╦══╗
+║║║║║╚╦╝║╦╣║║╔╗║══╣╦╝║║║║╠╗╗║
+║║║║╠╗║╔╣╩╣╚╣╠╣╠══║╩╗║║║║╠╩╝║
+╚╩═╩╝╚═╝╚═╩═╩╝╚╩══╩═╝╚╩═╩╩══╝
+*/
+    import * as mega from 'megajs';
 
 const auth = {
     email: 'sobxmd@gmail.com',
